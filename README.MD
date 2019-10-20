@@ -50,7 +50,7 @@ Contributions that copy commercial courses, or that fail to include references t
 Find a list of active Noob Coding repositories in the Modules list above.
 
 Explore the open issues and contribute to the Noob Coding initiative.
-Open a pull request for any of the following
+Open a pull request for any of the following:
 * Existing Issues
 * Improving existing course content
 * Creating new course content
